@@ -1,3 +1,6 @@
+ToDo List con React.
+Archivos editados: App.js  App.css   index.css
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
