@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h1{
+    color: gray;
+}
+.contenedorTask{
+    width: 600px;
+    margin-left: 20px;
+}
+.tasklist{
+    border-bottom: gray 1px solid;
+    width: 98%;
+}
+.taskText{
+    width: 200px;
+    font-size: 25px;
+    text-align: left;
+}
+.delete{
+    font-size: 15px;
+    text-align: left;
+}
+.contador{
+    color: gray;
+    width: 700px;
+    font-size: 15px;
+    text-align: left;
+}
